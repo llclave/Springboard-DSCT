@@ -5,3 +5,4 @@ The following projects are included:
 1. Data Wrangling JSON
 2. Mode Analytics: Investigating a Drop in User Engagement
 3. Human Body Temperature Using EDA
+4. Racial Discrimination in the US Job Market
