@@ -7,3 +7,4 @@ The following projects are included:
 3. Human Body Temperature Using EDA
 4. Racial Discrimination in the US Job Market
 5. Reduce Hospital Readmissions Using EDA
+6. Linear Regression Using Boston Housing Data Set
