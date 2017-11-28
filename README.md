@@ -8,3 +8,4 @@ The following projects are included:
 4. Racial Discrimination in the US Job Market
 5. Reduce Hospital Readmissions Using EDA
 6. Linear Regression Using Boston Housing Data Set
+7. Heights and Weights Using Logistic Regression
