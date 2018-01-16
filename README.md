@@ -10,3 +10,4 @@ The following projects are included:
 6. Linear Regression Using Boston Housing Data Set
 7. Heights and Weights Using Logistic Regression
 8. Predicting Movie Ratings from Reviews Using Naive Bayes
+9. Customer Segmentation Using Clustering
